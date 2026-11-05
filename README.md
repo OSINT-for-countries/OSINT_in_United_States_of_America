@@ -312,13 +312,11 @@ Government portals across federal and state levels in the United States publish 
 * ⬛ Services for checking companies and entrepreneurs
   * **[EDGAR](https://www.sec.gov/edgar/search/)** – Official SEC database of corporate filings, ownership disclosures and financial reports for publicly traded companies.
   * **[OpenCorporates](https://opencorporates.com/)** – Aggregated registry data from all U.S. state business registries, including incorporation details, officers and status.
-  * **[Secretary of State Business Search portals](https://www.sos.state.XX.us/)** – State-level official corporation and LLC registries (example: Delaware Division of Corporations).
 * ⬛ Services for court decisions and trial results
   * **[PACER](https://pacer.uscourts.gov/)** – Federal courts case dockets, filings and judgments across U.S. district and appellate courts.
   * **[CourtListener](https://www.courtlistener.com/)** – Free searchable archive of federal and some state court opinions and dockets.
   * **[State court portals](https://www.ncsc.org/)** – Individual state judicial websites providing case search for superior, district and appellate courts.
 * ⬛ Real Estate and Cadastral registers
-  * **[County Recorder / Assessor portals](https://www.countygov/)** – Local official property records, ownership history, deeds and tax assessments (varies by county).
   * **[PropertyShark](https://www.propertyshark.com/)** – Aggregated public parcel data, ownership and transaction history from county sources.
 * ⬛ Services for checking driver’s licenses and driver’s licenses verification
   * No nationwide public database exists for verifying individual driver’s licenses due to federal privacy restrictions (DPPA). Limited status checks are available only through state DMV portals for authorized parties.
